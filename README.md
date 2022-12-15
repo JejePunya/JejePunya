@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JejePunya
+- 👋 Hi, I’m SeeJay
 - 👀 I’m interested in Gaming,Video Editing, and Software Programming
 - 🌱 I’m currently learning Java Programming Language
 - 📫 How to reach me (not rn)
