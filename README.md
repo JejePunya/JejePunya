@@ -1,6 +1,6 @@
-- 👋 Hi, I’m SeeJay
-- 👀 I’m interested in Gaming,Video Editing, and Software Programming
-- 🌱 I’m currently learning Java Programming Language
+- 👋 Hi, I’m Christian Juan 
+- 👀 I’m interested in Gaming, Video Editing, Web and Software Programming
+- 🌱 I’m currently learning Java, Html, Css, PHP, and Kotlin Programming Language
 - 📫 How to reach me (not rn)
 
 
