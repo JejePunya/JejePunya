@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian Juan 
 - 👀 I’m interested in Gaming, Video Editing, Web and Software Programming
-- 🌱 I’m currently learning Java, HTML, CSS, PHP, Flutter and Dart Programming Language
+- 🌱 I’m currently learning Java, HTML, CSS, PHP.
 - 📫 How to reach me (not rn)
 
 
