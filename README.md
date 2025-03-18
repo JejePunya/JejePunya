@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christian Juan 
-- 👀 I’m interested in Gaming, Video Editing, Web and Software Programming
+- 👀 I’m interested in UI/UX, Multimedia and Programming
 - 🌱 I’m currently learning to accept my fate.
 - 📫 How to reach me (not rn)
 
